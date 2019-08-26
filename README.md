@@ -14,6 +14,7 @@ This VR application will immerse the patient in a landscape in which they are lo
 The VR Application is meant to work as an iPhone application which can be put into any portable cardboard VR headset (such as the Google Cardboard VR headset) as the prototype was made with public accessibility in mind. 
 
 Credits: 
+
 Used GoogleVR SDK for Unity
 
 Used “FREE Skybox — Cubemap Extended” asset from asset store by user “BOXOPHOBIC” 
